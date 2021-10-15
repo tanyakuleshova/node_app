@@ -1,0 +1,17 @@
+auth/node_modules
+client/node_modules
+/common/node_modules
+nats-test/node_modules
+tickets/node_modules
+.idea
+tickets/package-lock.json
+auth/package-lock.json
+client/package-lock.json
+nats-test/package-lock.json
+orders/node_modules
+minikube
+/orders/package-lock.json
+/expiration/node_modules
+/expiration/package-lock.json
+/payments/node_modules
+/payments/package-lock.json
